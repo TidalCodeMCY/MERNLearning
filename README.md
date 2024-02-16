@@ -8,3 +8,7 @@ The Goals of this
 - Learn the MERN Stack
 - Learn more about commenting and project layout.
 - Get better at coding overall :)
+
+https://www.youtube.com/watch?v=-42K44A1oMA - Project One the book app can learn it here!
+
+https://www.youtube.com/channel/UCML0Gx3jy2vHfMFdbhN5CxQ - My personal channel where I will be posting different journies over the next year as I get better and better at coding.
