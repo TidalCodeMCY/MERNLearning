@@ -50,7 +50,7 @@ export default function Home() {
                 <td className='border border-slate-700 rounded-md text-center max-md:hidden'>{book.publishYear}</td>
                 <td className='border border-slate-700 rounded-md text-center'>
                   <div className="flex justify-center gap-x-4">
-                    <Link to={`/books/details/${books._id}`}>
+                    <Link to={`/books/details/${book._id}`}>
                       <BsInfoCircle className='text-2x1 text-green-800'></BsInfoCircle>
                     </Link>
                     <Link to={`/books/edit/${book._id}`}>
